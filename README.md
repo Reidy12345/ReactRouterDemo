@@ -1,3 +1,7 @@
+# React Router Demo
+
+The repo is created during a [youtube video](https://www.youtube.com/watch?v=QWlRqAevodo). The standard `create react app` README is left below. Pelase feel free to fork, copy and otherwise use this repo in any none commertical capacity.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
